@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="gs-algo-1">
+    <CLASSES>
+      <root url="file://F:/gs-algo-1.2" />
+      <root url="file://F:/gs-core-1.2" />
+      <root url="file://F:/gs-ui-1.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/gs-algo-1.2" />
+      <root url="file://F:/gs-core-1.2" />
+    </SOURCES>
+    <jarDirectory url="file://F:/gs-algo-1.2" recursive="false" />
+    <jarDirectory url="file://F:/gs-core-1.2" recursive="false" />
+    <jarDirectory url="file://F:/gs-ui-1.2" recursive="false" />
+    <jarDirectory url="file://F:/gs-algo-1.2" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://F:/gs-core-1.2" recursive="false" type="SOURCES" />
+  </library>
+</component>

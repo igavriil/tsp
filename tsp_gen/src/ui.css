@@ -1,0 +1,55 @@
+node {
+    fill-color: red;
+    size: 10px;
+    text-color: white;
+    shadow-mode: plain;
+    shadow-color: red;
+    shadow-width: 20px;
+    shadow-offset: 0px,0px;
+}
+node.gray {
+    fill-color: gray;
+}
+
+node.black {
+    fill-color: white;
+}
+
+node.root {
+    fill-color: white;
+    size : 25px;
+}
+
+
+edge {
+    shape: line;
+    fill-color: white;
+    size: 1px;
+    shadow-mode: plain;
+    shadow-color: white;
+    shadow-width: 2px;
+    shadow-offset: 0px;
+}
+
+edge.red {
+    size: 2px;
+    stroke-color: red;
+    fill-color: red;
+    stroke-width: 1px;
+    stroke-mode: plain;
+
+}
+edge.blue {
+    size: 2px;
+    stroke-color: white;
+    stroke-width: 1px;
+    stroke-mode: plain;
+
+}
+
+
+graph
+{
+	fill-color: black;
+
+}

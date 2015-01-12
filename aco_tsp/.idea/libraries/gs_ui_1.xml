@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gs-ui-1">
+    <CLASSES>
+      <root url="file://F:/gs-ui-1.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/gs-ui-1.2" recursive="false" />
+  </library>
+</component>
