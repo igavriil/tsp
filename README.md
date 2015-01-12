@@ -44,7 +44,7 @@
 - At each selection there is small probability to bypass rules and choose randomly
 
 #### Pheromone update
--At each edge 
+- At each edge 
   * Pheromone evaporates in constant rate
   * Pheromone being disposed is analogous to it's path distance (elitism is use here)
   
